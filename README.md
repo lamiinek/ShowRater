@@ -5,7 +5,7 @@ Simple Node JS command line application that will get and save the rating of any
 require node.js to run
 
 open a terminal in the directory containing the files and run
-* npm install (_install all dependencies_)
-* npm start 
+- *npm install* (_install all dependencies_)
+- *pm start* 
 
 ![Screenshot](screenshot.png)
