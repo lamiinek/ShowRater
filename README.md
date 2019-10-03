@@ -12,4 +12,8 @@ Once the API key acquired, put it in the _.env_ file
 - *npm install* (_install all dependencies_)
 - *pm start* 
 
+works also on mobile (thanks to termux for Android)
+
+![Screenshot](https://i.imgur.com/e5avaQv_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
+
 ![Screenshot](screenshot.png)
